@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: base
+Jezik: Srpski
+Vrijeme transkripcije (s): 127.65
+Formatirano vrijeme: 2m 7.65s

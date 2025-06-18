@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: tiny
+Jezik: Bosanski
+Vrijeme transkripcije (s): 98.75
+Formatirano vrijeme: 1m 38.75s

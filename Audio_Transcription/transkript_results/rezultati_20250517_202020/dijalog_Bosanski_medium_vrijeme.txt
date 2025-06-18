@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: medium
+Jezik: Bosanski
+Vrijeme transkripcije (s): 1459.00
+Formatirano vrijeme: 24m 19.00s

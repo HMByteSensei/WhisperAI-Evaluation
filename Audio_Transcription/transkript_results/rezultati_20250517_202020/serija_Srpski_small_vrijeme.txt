@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: small
+Jezik: Srpski
+Vrijeme transkripcije (s): 349.62
+Formatirano vrijeme: 5m 49.62s

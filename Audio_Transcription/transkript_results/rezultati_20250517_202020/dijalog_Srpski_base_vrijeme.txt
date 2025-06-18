@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: base
+Jezik: Srpski
+Vrijeme transkripcije (s): 190.75
+Formatirano vrijeme: 3m 10.75s

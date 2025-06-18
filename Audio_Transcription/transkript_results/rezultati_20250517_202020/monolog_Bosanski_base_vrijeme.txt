@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: base
+Jezik: Bosanski
+Vrijeme transkripcije (s): 124.52
+Formatirano vrijeme: 2m 4.52s

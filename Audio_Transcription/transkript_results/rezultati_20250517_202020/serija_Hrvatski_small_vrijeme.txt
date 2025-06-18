@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: small
+Jezik: Hrvatski
+Vrijeme transkripcije (s): 473.56
+Formatirano vrijeme: 7m 53.56s

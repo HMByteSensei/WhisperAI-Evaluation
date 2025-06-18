@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: base
+Jezik: Srpski
+Vrijeme transkripcije (s): 201.45
+Formatirano vrijeme: 3m 21.45s

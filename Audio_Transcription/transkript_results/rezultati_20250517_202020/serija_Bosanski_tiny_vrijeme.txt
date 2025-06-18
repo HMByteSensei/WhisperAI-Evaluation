@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: tiny
+Jezik: Bosanski
+Vrijeme transkripcije (s): 131.86
+Formatirano vrijeme: 2m 11.86s

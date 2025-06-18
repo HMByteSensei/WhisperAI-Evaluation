@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: base
+Jezik: Bosanski
+Vrijeme transkripcije (s): 105.98
+Formatirano vrijeme: 1m 45.98s

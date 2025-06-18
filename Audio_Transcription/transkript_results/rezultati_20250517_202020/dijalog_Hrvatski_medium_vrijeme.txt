@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: medium
+Jezik: Hrvatski
+Vrijeme transkripcije (s): 1162.05
+Formatirano vrijeme: 19m 22.05s
