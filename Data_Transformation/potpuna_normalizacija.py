@@ -63,7 +63,7 @@ def fully_normalize_text(text_content, hardcoded_map, punctuation_to_remove):
     # Korak 1: Sve u mala slova
     text_lower = text_content.lower()
     
-    # Korak 2: Zamjena specifičnih, hardkodiranih brojeva (VAŠ PRIORITET)
+    # Korak 2: Zamjena specifičnih, hardkodiranih brojeva (PRIORITET)
     text_hardcoded_replaced = convert_specific_hardcoded_numbers(text_lower, hardcoded_map)
     
     # Korak 3: Zamjena svih preostalih brojeva koristeći num2words
@@ -156,9 +156,8 @@ if __name__ == "__main__":
         "2008": "dvije hiljade osam"
     }
     
-    # <<< GLAVNA IZMJENA OVDJE >>>
     # 2. Definišite SVE znakove interpunkcije koje želite ukloniti.
-    #    Dodao sam zagrade, apostrofe, navodnike, crtice, itd.
+    #    Ja sam dodao zagrade, apostrofe, navodnike, crtice, itd.
     PUNCTUATION_TO_REMOVE = ".,?!()'\"-:;"
     
     # 3. Definišite koje foldere želite obraditi
