@@ -8,7 +8,7 @@ from datetime import datetime
 AUDIO_FILES = ["monolog.mp3", "dijalog.mp3", "serija.mp3"]
 
 # Modeli koje želite testirati
-MODEL_SIZES = ["tiny", "base", "small", "medium"]
+MODEL_SIZES = ["tiny", "base", "small", "medium", "turbo"]
 
 # Jezici nad kojim ću testirati
 LANGUAGES = {
