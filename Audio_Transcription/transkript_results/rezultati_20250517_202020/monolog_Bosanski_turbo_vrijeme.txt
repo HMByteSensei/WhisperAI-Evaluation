@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: turbo
+Jezik: Bosanski
+Vrijeme transkripcije (s): 586.68
+Formatirano vrijeme: 9m 46.68s

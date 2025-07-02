@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: turbo
+Jezik: Bosanski
+Vrijeme transkripcije (s): 486.45
+Formatirano vrijeme: 8m 6.45s
