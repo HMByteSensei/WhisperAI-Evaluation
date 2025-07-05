@@ -217,61 +217,6 @@ Obrađeni fajl: serija_Srpski_tiny_transkript.txt
   Levenshtein distanca: 1420
   Procenat sličnosti: 50.04%
 
-Obrađeni fajl: dijalog_Bosanski_turbo_transkript.txt
-  Master original: dijalog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 505
-  Procenat sličnosti: 85.23%
-
-Obrađeni fajl: dijalog_Hrvatski_turbo_transkript.txt
-  Master original: dijalog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 479
-  Procenat sličnosti: 85.99%
-
-Obrađeni fajl: dijalog_Srpski_turbo_transkript.txt
-  Master original: dijalog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 648
-  Procenat sličnosti: 81.04%
-
-Obrađeni fajl: monolog_Bosanski_turbo_transkript.txt
-  Master original: monolog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 290
-  Procenat sličnosti: 92.82%
-
-Obrađeni fajl: monolog_Hrvatski_turbo_transkript.txt
-  Master original: monolog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 274
-  Procenat sličnosti: 93.22%
-
-Obrađeni fajl: monolog_Srpski_turbo_transkript.txt
-  Master original: monolog_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 256
-  Procenat sličnosti: 93.66%
-
-Obrađeni fajl: serija_Bosanski_turbo_transkript.txt
-  Master original: serija_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 792
-  Procenat sličnosti: 72.75%
-
-Obrađeni fajl: serija_Hrvatski_turbo_transkript.txt
-  Master original: serija_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 1054
-  Procenat sličnosti: 66.08%
-
-Obrađeni fajl: serija_Srpski_turbo_transkript.txt
-  Master original: serija_transkript.txt (normalizovan za poređenje)
-  Status: Upoređeno
-  Levenshtein distanca: 886
-  Procenat sličnosti: 70.36%
-
-
 Obrađeni fajl: dijalog_Bosanski_large-v2_transkript.txt
   Master original: originalni dijalog.txt (normalizovan za poređenje)
   Status: Upoređeno
