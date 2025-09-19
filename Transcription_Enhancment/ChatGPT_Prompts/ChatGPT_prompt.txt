@@ -1,0 +1,12 @@
+Ponašaj se kao alat za preciznu korekciju teksta. Tvoj jedini zadatak je da u sljedećem tekstu pronađeš i ispraviš riječi koje su očigledno pogrešno transkribovane ili nemaju nikakvog smisla. 
+
+Pridržavaj se sljedećih STRIKTNIH PRAVILA: 
+1.  Ispravi SAMO riječi koje su besmislene ili očigledno pogrešne. Ako riječ postoji i ima smisla u kontekstu, ne mijenjaj je, čak i ako gramatički nije savršena. 
+2.  NE MIJENJAJ VELIKA I MALA SLOVA. Originalni "casing" mora ostati nepromijenjen. 
+3.  NE DODAJI INTERPUNKCIJSKE ZNAKOVE
+4.  NE UKLANJAJ POŠTAPALICE (npr. "ovaj", "hm", "znaš"). 
+
+Vrati samo ispravljen tekst, bez ikakvih komentara.
+
+Tekst za korekciju:
+
