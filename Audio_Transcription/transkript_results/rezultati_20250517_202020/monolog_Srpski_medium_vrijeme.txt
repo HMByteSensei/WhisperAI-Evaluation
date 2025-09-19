@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: medium
+Jezik: Srpski
+Vrijeme transkripcije (s): 1218.45
+Formatirano vrijeme: 20m 18.45s

@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: small
+Jezik: Srpski
+Vrijeme transkripcije (s): 410.43
+Formatirano vrijeme: 6m 50.43s

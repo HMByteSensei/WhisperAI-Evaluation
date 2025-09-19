@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: tiny
+Jezik: Srpski
+Vrijeme transkripcije (s): 75.66
+Formatirano vrijeme: 1m 15.66s

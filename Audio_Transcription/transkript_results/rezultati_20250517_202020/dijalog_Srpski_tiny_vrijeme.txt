@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: tiny
+Jezik: Srpski
+Vrijeme transkripcije (s): 201.00
+Formatirano vrijeme: 3m 21.00s

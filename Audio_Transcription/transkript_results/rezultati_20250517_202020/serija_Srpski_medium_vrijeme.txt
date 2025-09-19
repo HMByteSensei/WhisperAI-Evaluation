@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: medium
+Jezik: Srpski
+Vrijeme transkripcije (s): 1482.86
+Formatirano vrijeme: 24m 42.86s

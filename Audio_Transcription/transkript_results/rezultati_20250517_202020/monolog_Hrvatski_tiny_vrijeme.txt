@@ -1,0 +1,5 @@
+Audio fajl: monolog
+Model: tiny
+Jezik: Hrvatski
+Vrijeme transkripcije (s): 101.67
+Formatirano vrijeme: 1m 41.67s

@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: small
+Jezik: Bosanski
+Vrijeme transkripcije (s): 454.76
+Formatirano vrijeme: 7m 34.76s

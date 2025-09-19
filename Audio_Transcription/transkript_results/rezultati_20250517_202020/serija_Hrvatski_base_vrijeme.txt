@@ -1,0 +1,5 @@
+Audio fajl: serija
+Model: base
+Jezik: Hrvatski
+Vrijeme transkripcije (s): 160.14
+Formatirano vrijeme: 2m 40.14s

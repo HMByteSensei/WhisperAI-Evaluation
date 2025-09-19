@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: turbo
+Jezik: Hrvatski
+Vrijeme transkripcije (s): 625.05
+Formatirano vrijeme: 10m 25.05s

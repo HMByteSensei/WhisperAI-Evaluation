@@ -1,0 +1,5 @@
+Audio fajl: dijalog
+Model: tiny
+Jezik: Bosanski
+Vrijeme transkripcije (s): 121.02
+Formatirano vrijeme: 2m 1.02s
