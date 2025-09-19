@@ -1,0 +1,165 @@
+Sumarni izvještaj poređenja obrađenih transkripata sa master originalima (DMP):
+=================================================================================
+
+Obrađeni fajl: dijalog_Bosanski_ChatGPT_NOVI_small_transkript.txt
+  Master original: dijalog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 563
+  Procenat sličnosti: 83.31%
+
+Obrađeni fajl: dijalog_Bosanski_ChatGPT_small_transkript.txt
+  Master original: dijalog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 588
+  Procenat sličnosti: 82.57%
+
+Obrađeni fajl: dijalog_Bosanski_small_transkript.txt
+  Master original: dijalog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 587
+  Procenat sličnosti: 82.60%
+
+Obrađeni fajl: dijalog_Hrvatski_ChatGPT_NOVI_small_transkript.txt
+  Master original: dijalog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 610
+  Procenat sličnosti: 81.69%
+
+Obrađeni fajl: dijalog_Hrvatski_ChatGPT_small_transkript.txt
+  Master original: dijalog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 609
+  Procenat sličnosti: 81.78%
+
+Obrađeni fajl: dijalog_Hrvatski_small_transkript.txt
+  Master original: dijalog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 615
+  Procenat sličnosti: 81.53%
+
+Obrađeni fajl: dijalog_Srpski_ChatGPT_NOVO_small_transkript.txt
+  Master original: dijalog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 702
+  Procenat sličnosti: 78.76%
+
+Obrađeni fajl: dijalog_Srpski_ChatGPT_small_transkript.txt
+  Master original: dijalog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 687
+  Procenat sličnosti: 79.15%
+
+Obrađeni fajl: dijalog_Srpski_small_transkript.txt
+  Master original: dijalog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 717
+  Procenat sličnosti: 77.99%
+
+Obrađeni fajl: monolog_Bosanski_ChatGPT_NOVO_small_transkript.txt
+  Master original: monolog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 384
+  Procenat sličnosti: 90.20%
+
+Obrađeni fajl: monolog_Bosanski_ChatGPT_small_transkript.txt
+  Master original: monolog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 372
+  Procenat sličnosti: 90.52%
+
+Obrađeni fajl: monolog_Bosanski_small_transkript.txt
+  Master original: monolog_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 421
+  Procenat sličnosti: 89.16%
+
+Obrađeni fajl: monolog_Hrvatski_ChatGPT_NOVO_small_transkript.txt
+  Master original: monolog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 398
+  Procenat sličnosti: 89.92%
+
+Obrađeni fajl: monolog_Hrvatski_ChatGPT_small_transkript.txt
+  Master original: monolog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 348
+  Procenat sličnosti: 91.19%
+
+Obrađeni fajl: monolog_Hrvatski_small_transkript.txt
+  Master original: monolog_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 415
+  Procenat sličnosti: 89.49%
+
+Obrađeni fajl: monolog_Srpski_ChatGPT_NOVO_small_transkript.txt
+  Master original: monolog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 406
+  Procenat sličnosti: 89.62%
+
+Obrađeni fajl: monolog_Srpski_ChatGPT_small_transkript.txt
+  Master original: monolog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 310
+  Procenat sličnosti: 92.10%
+
+Obrađeni fajl: monolog_Srpski_small_transkript.txt
+  Master original: monolog_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 406
+  Procenat sličnosti: 89.62%
+
+Obrađeni fajl: serija_Bosanski_ChatGPT_NOVO_small_transkript.txt
+  Master original: serija_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 741
+  Procenat sličnosti: 74.48%
+
+Obrađeni fajl: serija_Bosanski_ChatGPT_small_transkript.txt
+  Master original: serija_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 758
+  Procenat sličnosti: 73.90%
+
+Obrađeni fajl: serija_Bosanski_small_transkript.txt
+  Master original: serija_Bosanski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 784
+  Procenat sličnosti: 73.00%
+
+Obrađeni fajl: serija_Hrvatski_ChatGPT_NOVO_small_transkript.txt
+  Master original: serija_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 1030
+  Procenat sličnosti: 66.83%
+
+Obrađeni fajl: serija_Hrvatski_ChatGPT_small_transkript.txt
+  Master original: serija_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 1095
+  Procenat sličnosti: 64.73%
+
+Obrađeni fajl: serija_Hrvatski_small_transkript.txt
+  Master original: serija_Hrvatski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 1115
+  Procenat sličnosti: 64.09%
+
+Obrađeni fajl: serija_Srpski_ChatGPT_NOVO_small_transkript.txt
+  Master original: serija_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 892
+  Procenat sličnosti: 70.13%
+
+Obrađeni fajl: serija_Srpski_ChatGPT_small_transkript.txt
+  Master original: serija_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 889
+  Procenat sličnosti: 70.23%
+
+Obrađeni fajl: serija_Srpski_small_transkript.txt
+  Master original: serija_Srpski_turbo_transkript.txt (normalizovan za poređenje)
+  Status: Upoređeno
+  Levenshtein distanca: 923
+  Procenat sličnosti: 69.09%
+
