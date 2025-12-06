@@ -1,6 +1,6 @@
 # Audio Transcription
 
-This directory contains results of transcription and the scripts used to generate transcriptions from audio files using OpenAI's Whisper models. Due to hardware resource management, the transcription process was split between a Python script for lighter models and a Jupyter Notebook for heavier models.
+This directory contains results of transcriptions and the scripts used to generate transcriptions from audio files using OpenAI's Whisper models. Due to hardware resource management, the transcription process was split between a Python script for lighter models and a Jupyter Notebook for heavier models.
 
 ## Scripts & Tools
 
@@ -14,4 +14,7 @@ This directory contains results of transcription and the scripts used to generat
 All raw text outputs are saved here before normalization.
 
 * **`original_transcripts/`**: Manual (My - Human) transcriptions.
-* **`rezultati_20250517_202020/`**: Machine-generated transcripts labeled by model size (e.g., `_base`, `_large-v2`).
+* **`rezultati_20250517_202020/`**: Machine-generated transcripts labeled by:
+    * audio files (e.g., `monolog`, `dijalog`, and `serija`)
+    * language that were used (e.g., `_Bosanski`, `_Hrvatski` and `_Srpski`)
+    * model size (e.g., `_base`, `_large-v2`).
