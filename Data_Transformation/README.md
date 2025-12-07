@@ -8,7 +8,7 @@ This script takes raw text files and applies a strict normalization rules.
 
 ## Normalization Rules
 
-The script performs the following transformations, specifically tuned for **Bosnian/Croatian/Serbian** language evaluation:
+The script performs the following transformations, specifically tuned for **Bosnian, Croatian, and Serbian** language evaluation:
 
 1.  **Lowercase:** All text is converted to lowercase to ignore capitalization errors.
 2.  **Punctuation Removal:** All commas, periods, question marks, and other symbols are stripped.
