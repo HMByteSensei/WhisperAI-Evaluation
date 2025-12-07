@@ -127,3 +127,26 @@ git clone [https://github.com/HMByteSensei/WhisperAI-Evaluation.git](https://git
 
 # Install dependencies
 pip install openai-whisper Levenshtein matplotlib
+
+## License & Citation
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software, provided that proper copyright notice and attribution are included. See the [LICENSE](LICENSE) file for more details.
+
+### How to Cite
+
+If you utilize this code, data, or methodology in your research, please cite it as follows:
+
+**APA Format:**
+> [Husić], [M]. (2025). *Comprehensive Evaluation of OpenAI Whisper Models for Bosnian, Croatian, and Serbian Languages*. GitHub. https://github.com/HMByteSensei/WhisperAI-Evaluation
+
+**BibTeX:**
+```bibtex
+@misc{whisper-eval-bcs,
+  author = {[Muhamed], [Husić]},
+  title = {Comprehensive Evaluation of OpenAI Whisper Models for Bosnian, Croatian, and Serbian Languages},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/HMByteSensei/WhisperAI-Evaluation](https://github.com/HMByteSensei/WhisperAI-Evaluation)}}
+}
+```
